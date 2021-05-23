@@ -8,12 +8,12 @@
 },
 "auth": {
      "url": "https://akun.hsi.id",
-     "dev1url": "https://dev-akun.hsi.id/api/",
+     "dev1url": "https://dev-akun.hsi.id",
      "dev-url": "https://akun.hsi.id"
 },
 "place": {
      "url": "https://place.hsi.id/api/v1/places",
-     "dev1url": "https://dev-place.hsi.id/api/",
+     "dev1url": "https://dev-place.hsi.id/api/v1/places",
      "dev-url": "https://place.hsi.id/api/v1/places"
 },
 "kbm": "https://edu-api.hsi.id/api/",
