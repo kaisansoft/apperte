@@ -2,9 +2,9 @@
 "mode": "prod",
 "kbm_1": "http://localhost:8000/api/",
 "edu": {
-     "url": "https://edu-api.hsi.id/api/",
-     "dev1url": "https://dev-edu-api.hsi.id/api/",
-     "dev-url": "https://edu-api.hsi.id/api/"
+     "url": "https://admin.hsi.id/api/",
+     "dev1url": "https://dev-admin.hsi.id/api/",
+     "dev-url": "https://admin.hsi.id/api/"
 },
 "auth": {
      "url": "https://akun.hsi.id",
@@ -16,7 +16,7 @@
      "dev1url": "https://dev-place.hsi.id/api/v1/places",
      "dev-url": "https://place.hsi.id/api/v1/places"
 },
-"kbm": "https://edu-api.hsi.id/api/",
+"kbm": "https://admin.hsi.id/api/",
 "sikap": "https://sikap.abdullahroy.com/",
 "A": "B"
 }
